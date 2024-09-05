@@ -1,10 +1,10 @@
 import org.json.JSONArray;
 
-import io.gupy.targetsistemas.PrimeiraQuestao;
-import io.gupy.targetsistemas.QuartaQuestao;
-import io.gupy.targetsistemas.QuintaQuestao;
-import io.gupy.targetsistemas.SegundaQuestao;
-import io.gupy.targetsistemas.TerceiraQuestao;
+import br.com.targetsistemas.PrimeiraQuestao;
+import br.com.targetsistemas.QuartaQuestao;
+import br.com.targetsistemas.QuintaQuestao;
+import br.com.targetsistemas.SegundaQuestao;
+import br.com.targetsistemas.TerceiraQuestao;
 
 public class Main {
     public static void main(String[] args) {

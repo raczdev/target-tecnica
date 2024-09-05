@@ -1,4 +1,4 @@
-package io.gupy.targetsistemas;
+package br.com.targetsistemas;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
