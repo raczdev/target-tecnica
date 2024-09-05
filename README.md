@@ -43,7 +43,7 @@ O projeto está estruturado em várias classes, cada uma resolvendo uma questão
 - **Classe**: `QuintaQuestao`
 - **Descrição**: Escreva um programa que inverta os caracteres de um string.
 - **Método**:
-  - `inverterString(String string)`: Inverte os caracteres de uma string e retorna a string invertida.
+  - `inverterString()`: Inverte os caracteres de uma string e retorna a string invertida.
 
 ## Como Executar o Projeto
 
