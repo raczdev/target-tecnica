@@ -2,13 +2,10 @@ package br.com.targetsistemas;
 
 public class SegundaQuestao {
 
-    private int primeiroNumero = 0;
-    private int segundoNumero = 1;
-
-
     // Método para verificar se o número digitado faz parte da sequência Fibonacci.
     public void verificarPresencaNaFibonacci(int numeroProcurado) {
-
+        int primeiroNumero = 0;
+        int segundoNumero = 1;
         // if para descobrir se o numero informado é 0 ou 1 (O Loop é iniciado pelo terceiro numero da sequência fibonacci).
         if(numeroProcurado == primeiroNumero) {
             System.out.printf("O numero informado %d é o primeiro da sequência Fibonacci", 
@@ -48,6 +45,8 @@ public class SegundaQuestao {
 
     // Método para exibir a sequência Fibonacci até o limite especificado.
     public void exibirSequenciaFibonacci(int limite) {
+        int primeiroNumero = 0;
+        int segundoNumero = 1;
 
         System.out.printf("A sequencia de Fibonacci se inicia pelos numeros %d, %d, ", primeiroNumero, segundoNumero);
 
